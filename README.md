@@ -1,5 +1,5 @@
 # GDR-GMA
-Code for our ACM MM 2024 paper "**[ERM-KTP: Knowledge-level Machine Unlearning via Knowledge Transfer](https://openreview.net/pdf?id=52NGERGnlz)**". 
+Code for our ACM MM 2024 paper "**[GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted Gradients](https://openreview.net/pdf?id=52NGERGnlz)**". 
 
 ## Citation
 
